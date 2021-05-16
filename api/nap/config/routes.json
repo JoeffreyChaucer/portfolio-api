@@ -1,0 +1,28 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/nap",
+      "handler": "nap.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/nap",
+      "handler": "nap.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/nap",
+      "handler": "nap.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

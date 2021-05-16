@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_subtitle_project_subtitles",
+  "info": {
+    "name": "project_subtitle",
+    "icon": "align-center",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "abouts",
+  "info": {
+    "name": "about",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "about": {
+      "type": "text",
+      "required": true
+    },
+    "stack_item": {
+      "type": "component",
+      "repeatable": true,
+      "component": "technology-stack.project-stack",
+      "required": true
+    }
+  }
+}

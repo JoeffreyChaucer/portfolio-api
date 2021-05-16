@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_technology_stack_project_stacks",
+  "info": {
+    "name": "project_stack",
+    "icon": "arrow-right",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "stack": {
+      "type": "string"
+    }
+  }
+}
