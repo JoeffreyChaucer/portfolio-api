@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_description_job_descriptions",
+  "info": {
+    "displayName": "item",
+    "icon": "angry",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
